@@ -1,0 +1,26 @@
+C:\Users\Ayo@Center4Tech\documents\visual studio 2010\Projects\Sound Localizer\Sound Localizer\bin\Debug\Sound Localizer.exe
+C:\Users\Ayo@Center4Tech\documents\visual studio 2010\Projects\Sound Localizer\Sound Localizer\bin\Debug\Sound Localizer.pdb
+C:\Users\Ayo@Center4Tech\documents\visual studio 2010\Projects\Sound Localizer\Sound Localizer\bin\Debug\Sound Localizer.xml
+C:\Users\Ayo@Center4Tech\documents\visual studio 2010\Projects\Sound Localizer\Sound Localizer\obj\x86\Debug\Sound_Localizer.Form1.resources
+C:\Users\Ayo@Center4Tech\documents\visual studio 2010\Projects\Sound Localizer\Sound Localizer\obj\x86\Debug\Sound_Localizer.Resources.resources
+C:\Users\Ayo@Center4Tech\documents\visual studio 2010\Projects\Sound Localizer\Sound Localizer\obj\x86\Debug\Sound Localizer.vbproj.GenerateResource.Cache
+C:\Users\Ayo@Center4Tech\documents\visual studio 2010\Projects\Sound Localizer\Sound Localizer\obj\x86\Debug\Sound Localizer.exe
+C:\Users\Ayo@Center4Tech\documents\visual studio 2010\Projects\Sound Localizer\Sound Localizer\obj\x86\Debug\Sound Localizer.xml
+C:\Users\Ayo@Center4Tech\documents\visual studio 2010\Projects\Sound Localizer\Sound Localizer\obj\x86\Debug\Sound Localizer.pdb
+C:\Users\Ayo@Center4Tech\Documents\Visual Studio 2010\Projects\Sound Localizer\Sound Localizer\bin\Debug\Sound Localizer.exe.manifest
+C:\Users\Ayo@Center4Tech\Documents\Visual Studio 2010\Projects\Sound Localizer\Sound Localizer\bin\Debug\Sound Localizer.application
+C:\Users\Ayo@Center4Tech\Documents\Visual Studio 2010\Projects\Sound Localizer\Sound Localizer\obj\x86\Debug\Sound Localizer.exe.manifest
+C:\Users\Ayo@Center4Tech\Documents\Visual Studio 2010\Projects\Sound Localizer\Sound Localizer\obj\x86\Debug\Sound Localizer.application
+C:\Users\Azeezat\Documents\FINAL YEAR PROJECT WIRTE-UPS\Sound Localizer 1\Sound Localizer\obj\x86\Debug\Sound Localizer.exe
+C:\Users\Azeezat\Documents\FINAL YEAR PROJECT WIRTE-UPS\Sound Localizer 1\Sound Localizer\obj\x86\Debug\Sound Localizer.xml
+C:\Users\Azeezat\Documents\FINAL YEAR PROJECT WIRTE-UPS\Sound Localizer 1\Sound Localizer\obj\x86\Debug\Sound Localizer.pdb
+C:\Users\Azeezat\Documents\FINAL YEAR PROJECT WIRTE-UPS\Sound Localizer 1\Sound Localizer\bin\Debug\Sound Localizer.exe.manifest
+C:\Users\Azeezat\Documents\FINAL YEAR PROJECT WIRTE-UPS\Sound Localizer 1\Sound Localizer\bin\Debug\Sound Localizer.application
+C:\Users\Azeezat\Documents\FINAL YEAR PROJECT WIRTE-UPS\Sound Localizer 1\Sound Localizer\bin\Debug\Sound Localizer.exe
+C:\Users\Azeezat\Documents\FINAL YEAR PROJECT WIRTE-UPS\Sound Localizer 1\Sound Localizer\bin\Debug\Sound Localizer.pdb
+C:\Users\Azeezat\Documents\FINAL YEAR PROJECT WIRTE-UPS\Sound Localizer 1\Sound Localizer\bin\Debug\Sound Localizer.xml
+C:\Users\Azeezat\Documents\FINAL YEAR PROJECT WIRTE-UPS\Sound Localizer 1\Sound Localizer\obj\x86\Debug\Sound_Localizer.Form1.resources
+C:\Users\Azeezat\Documents\FINAL YEAR PROJECT WIRTE-UPS\Sound Localizer 1\Sound Localizer\obj\x86\Debug\Sound_Localizer.Resources.resources
+C:\Users\Azeezat\Documents\FINAL YEAR PROJECT WIRTE-UPS\Sound Localizer 1\Sound Localizer\obj\x86\Debug\Sound Localizer.vbproj.GenerateResource.Cache
+C:\Users\Azeezat\Documents\FINAL YEAR PROJECT WIRTE-UPS\Sound Localizer 1\Sound Localizer\obj\x86\Debug\Sound Localizer.exe.manifest
+C:\Users\Azeezat\Documents\FINAL YEAR PROJECT WIRTE-UPS\Sound Localizer 1\Sound Localizer\obj\x86\Debug\Sound Localizer.application
